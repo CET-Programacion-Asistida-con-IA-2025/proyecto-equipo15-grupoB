@@ -55,4 +55,4 @@ En esta etapa se incorporan modificaciones y mejoras respecto a la entrega anter
 
 ---
 
-> Proyecto realizado con compromiso, creatividad y trabajo en equipo por el Grupo B - Equipo 15 💡✨
+> Proyecto realizado con creatividad y trabajo en equipo por el Grupo B - Equipo 15 💡✨
