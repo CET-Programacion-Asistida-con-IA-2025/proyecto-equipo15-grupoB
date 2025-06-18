@@ -1,82 +1,58 @@
-# 📄 Entrega #1: Planificación de la solución y primeros resultados con IA
+# 💻 Grupo B - Equipo 15  
+**Curso de Programación Asistida con IA - Chicas en Tecnología 🚀**
 
-## 🧠 Proyecto: "Aprendé a aprender"
-
----
-
-## 🎓 Tema elegido / Problemática
-
-**Educación metacognitiva y emocional para estudiantes de 12 a 18 años.**  
-Muchos estudiantes no aprenden porque no saben *cómo* aprender. La educación no suele enseñar autoconocimiento, autorregulación ni habilidades emocionales, aunque son claves para el éxito académico y personal.
-
-**Solución propuesta:** una plataforma web interactiva que enseña a los y las estudiantes cómo aprenden, cómo manejar sus emociones al estudiar y cómo desarrollar hábitos y habilidades blandas fundamentales para su bienestar educativo.
+Bienvenidas/os al repositorio del proyecto **"Aprendé a Aprender"**, desarrollado como parte del curso de programación frontend de **Chicas en Tecnología (CET)**.
 
 ---
 
-## 🎯 Objetivo del proyecto
+## 🧠 Proyecto: Aprendé a Aprender
 
-Brindar herramientas accesibles y prácticas para que estudiantes de nivel primario avanzado y secundario puedan:
+**¿Qué pasaría si en lugar de solo enseñar contenidos, enseñáramos a aprender?**
 
-- Comprender su proceso de aprendizaje.
-- Mejorar su organización y hábitos.
-- Regular sus emociones relacionadas con el estudio.
-- Desarrollar habilidades para la vida.
+**"Aprendé a Aprender"** es una plataforma web interactiva destinada a estudiantes de 12 a 18 años que busca desarrollar habilidades metacognitivas y emocionales esenciales para el estudio y el bienestar educativo.
 
-El foco no está solo en el *qué* estudiar, sino en el *cómo* aprender, promoviendo autonomía, motivación y bienestar personal.
+Muchos estudiantes no aprenden simplemente porque no saben *cómo* hacerlo. La escuela suele enfocarse en el contenido, pero no en el proceso. Este proyecto propone una solución educativa innovadora que ayuda a jóvenes a conocerse, regular sus emociones, organizarse mejor y construir hábitos efectivos para aprender.
 
 ---
 
-## 🧩 Principales funcionalidades
+## 📄 Estructura del Repositorio
 
-- **Técnicas de estudio explicadas con metacognición**  
-  Tarjetas o módulos (Pomodoro, mapas mentales, fichas, etc.) explicadas desde el *cómo* y *por qué* funcionan, y cómo elegir la más adecuada según el estilo de aprendizaje.
+### 📁 Entrega #1: Planificación de la solución y primeros resultados con IA
 
-- **Explorador de inteligencias y estilos de aprendizaje**  
-  Test interactivo para descubrir tu forma de aprender (visual, auditivo, kinestésico, lógico, etc.) y tu tipo de inteligencia predominante (Gardner).
+**📝 Archivo README:**  
+Contiene:
 
-- **Asistente emocional para el estudio**  
-  Guías interactivas para manejar emociones frecuentes: ansiedad ante exámenes, frustración, baja autoestima académica, miedo al error, entre otras.
+- ✅ Definición de la problemática que elegimos abordar.  
+- ✅ Relación con los Objetivos de Desarrollo Sostenible (ODS), especialmente el ODS 4 (Meta 4.7).  
+- ✅ Explicación de la solución tecnológica propuesta: una plataforma web educativa con herramientas interactivas y personalizadas.
 
-- **Historietas o simulaciones: “Elegí tu camino”**  
-  Juegos donde se practican decisiones en situaciones reales: qué hacer si estás distraído, estresado, desmotivado, etc. Favorecen la autorregulación.
+**🎨 Moodboard:**  
+Representa la estética, el tono y la intención emocional del sitio.
 
-- **Creador de rutina y tracker emocional**  
-  Formulario que crea una rutina personalizada y permite registrar cómo te sentiste al estudiar. Sugiere mejoras en el entorno o actitud.
+**🧩 Archivos generados con asistencia de IA:**
 
-- **Zona de prácticas con feedback reflexivo**  
-  Actividades interactivas (flashcards, tests, emparejamiento) con preguntas de reflexión:  
-  *¿Por qué creés que esto te funcionó?*  
-  *¿Qué podrías probar diferente la próxima vez?*
-
-- **Recursos para adultos que acompañan**  
-  Guías para madres, padres o docentes sobre cómo apoyar sin sobreproteger, acompañar emocionalmente, y ayudar a formar hábitos saludables.
+- `index.html`: estructura del sitio web.  
+- `style.css`: estilos visuales.  
+- `script.js`: interacción y lógica de componentes.
 
 ---
 
-## 🌍 Vinculación con los Objetivos de Desarrollo Sostenible (ODS)
+### 📁 Entrega #2 (Final)
 
-Este proyecto responde directamente a la **Meta 4.7 del ODS 4 - Educación de calidad**, ya que:
+En esta etapa se incorporan modificaciones y mejoras respecto a la entrega anterior. Se incluyen:
 
-- Promueve habilidades para la vida: autoconocimiento, autorregulación, organización.  
-- Aporta a una educación inclusiva, emocionalmente segura y significativa.  
-- Reduce desigualdades en el aprendizaje mediante recursos accesibles.  
-- Promueve igualdad de oportunidades al fortalecer la autonomía de estudiantes de contextos vulnerables.
-
----
-
-## 🛠️ Herramientas y tecnologías aplicadas
-
-- **HTML / CSS / JavaScript**: desarrollo de interfaz interactiva y juegos educativos.  
-- **ChatGPT / IA generativa**: asistentes virtuales personalizados con orientación emocional o académica.  
-- **Canva / Figma**: diseño de tarjetas visuales, historietas y flujos interactivos.
+- Nuevas funcionalidades y mejoras en la experiencia de usuario.
+- Ajustes visuales según el moodboard y feedback recibido.
+- Validación de que hay al menos un archivo por cada lenguaje aprendido: HTML, CSS y JavaScript.
 
 ---
 
-## 📦 Entregables
+## 🛠️ Tecnologías utilizadas
 
-- 📝 Archivo `README.md` 
-- 🎨 Moodboard con la estética y tono del proyecto.  
-- 🧩 Archivos generados con asistencia de IA:
-  - `index.html`  
-  - `style.css`  
-  - `script.js`
+- **HTML/CSS/JavaScript**: base del desarrollo frontend del sitio.  
+- **ChatGPT / IA generativa**: asistencia para la generación de contenido y código inicial.  
+- **Figma / Canva**: diseño de tarjetas visuales, estructuras de navegación y moodboard.  
+
+---
+
+> Proyecto realizado con compromiso, creatividad y trabajo en equipo por el Grupo B - Equipo 15 💡✨
