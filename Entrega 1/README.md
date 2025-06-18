@@ -1,4 +1,5 @@
-# 📄 Entrega #1: Planificación de la solución y primeros resultados con IA
+# 📄 Entrega #1: 
+# Planificación de la solución y primeros resultados con IA
 
 ## 🧠 Proyecto: "Aprendé a Aprender"
 
@@ -75,7 +76,7 @@ Este proyecto responde directamente a la **Meta 4.7 del ODS 4 - Educación de ca
 ## 📦 Entregables
 
 - 📝 Archivo `README.md`
-- 🎨 Moodboard con la estética y tono del proyecto.  
+- 🎨 Moodboard con la estética y tono del proyecto `Moodboard.jpg`  
 - 🧩 Archivos generados con asistencia de IA:
   - `index.html`  
   - `style.css`  
