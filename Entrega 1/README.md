@@ -1,83 +1,60 @@
-# 📄 Entrega #1: 
-# Planificación de la solución y primeros resultados con IA
+# 📄 Entrega #1: Planificación de la solución y primeros resultados con IA
 
-## 🧠 Proyecto: "Aprendé a Aprender"
+## 🧠 Tema del Proyecto
 
----
+**Educación metacognitiva y emocional para estudiantes de 12 a 18 años.**
 
-## 🎓 Tema elegido / Problemática
+Muchos estudiantes no aprenden porque no saben *cómo* hacerlo. La escuela rara vez enseña a organizarse, regular emociones o formar hábitos.
 
-**Educación metacognitiva y emocional para estudiantes de 12 a 18 años.**  
-Muchos estudiantes no aprenden porque no saben *cómo* aprender. La educación no suele enseñar autoconocimiento, autorregulación ni habilidades emocionales, aunque son claves para el éxito académico y personal.
-
-**Solución propuesta:** una plataforma web interactiva que enseña a los y las estudiantes cómo aprenden, cómo manejar sus emociones al estudiar y cómo desarrollar hábitos y habilidades blandas fundamentales para su bienestar educativo.
+🔍 **Solución propuesta**: una plataforma web que enseña *cómo* aprender, manejar emociones al estudiar y desarrollar habilidades para el bienestar académico y personal.
 
 ---
 
-## 🎯 Objetivo del proyecto
+## 🎯 Objetivo General
 
-Brindar herramientas accesibles y prácticas para que estudiantes de nivel primario avanzado y secundario puedan:
+Brindar herramientas prácticas para que estudiantes puedan:
 
 - Comprender su proceso de aprendizaje.
-- Mejorar su organización y hábitos.
-- Regular sus emociones relacionadas con el estudio.
-- Desarrollar habilidades para la vida.
-
-El foco no está solo en el *qué* estudiar, sino en el *cómo* aprender, promoviendo autonomía, motivación y bienestar personal.
+- Organizarse y formar hábitos efectivos.
+- Regular sus emociones ante el estudio.
+- Desarrollar habilidades blandas para la vida.
 
 ---
 
-## 🧩 Principales funcionalidades
+## 📌 Avances Entrega #1
 
-- **Técnicas de estudio explicadas con metacognición**  
-  Tarjetas o módulos (Pomodoro, mapas mentales, fichas, etc.) explicadas desde el *cómo* y *por qué* funcionan, y cómo elegir la más adecuada según el estilo de aprendizaje.
+### ✅ Definición inicial del proyecto
 
-- **Explorador de inteligencias y estilos de aprendizaje**  
-  Test interactivo para descubrir tu forma de aprender (visual, auditivo, kinestésico, lógico, etc.) y tu tipo de inteligencia predominante (Gardner).
+- Propuesta de valor clara y funcionalidades clave.
 
-- **Asistente emocional para el estudio**  
-  Guías interactivas para manejar emociones frecuentes: ansiedad ante exámenes, frustración, baja autoestima académica, miedo al error, entre otras.
+### ✅ Diseño visual
 
-- **Historietas o simulaciones: “Elegí tu camino”**  
-  Juegos donde se practican decisiones en situaciones reales: qué hacer si estás distraído, estresado, desmotivado, etc. Favorecen la autorregulación.
+- Primer enfoque visual plasmado en `Moodboard.jpg`.
 
-- **Creador de rutina y tracker emocional**  
-  Formulario que crea una rutina personalizada y permite registrar cómo te sentiste al estudiar. Sugiere mejoras en el entorno o actitud.
+### ✅ Generación de archivos iniciales con IA
 
-- **Zona de prácticas con feedback reflexivo**  
-  Actividades interactivas (flashcards, tests, emparejamiento) con preguntas de reflexión:  
-  *¿Por qué creés que esto te funcionó?*  
-  *¿Qué podrías probar diferente la próxima vez?*
-
-- **Recursos para adultos que acompañan**  
-  Guías para madres, padres o docentes sobre cómo apoyar sin sobreproteger, acompañar emocionalmente, y ayudar a formar hábitos saludables.
+- `index.html`: estructura básica de la página de inicio.
+- `style.css`: primeros estilos aplicados.
+- `script.js`: lógica básica inicial.
 
 ---
 
-## 🌍 Vinculación con los Objetivos de Desarrollo Sostenible (ODS)
+## 🛠️ Herramientas Utilizadas
 
-Este proyecto responde directamente a la **Meta 4.7 del ODS 4 - Educación de calidad**, ya que:
-
-- Promueve habilidades para la vida: autoconocimiento, autorregulación, organización.  
-- Aporta a una educación inclusiva, emocionalmente segura y significativa.  
-- Reduce desigualdades en el aprendizaje mediante recursos accesibles.  
-- Promueve igualdad de oportunidades al fortalecer la autonomía de estudiantes de contextos vulnerables.
-
----
-
-## 🛠️ Herramientas y tecnologías aplicadas
-
-- **HTML / CSS / JavaScript**: desarrollo de interfaz interactiva y juegos educativos.  
-- **ChatGPT / IA generativa**: asistentes virtuales personalizados con orientación emocional o académica.  
-- **Canva / Figma**: diseño de tarjetas visuales, historietas y flujos interactivos.
+- **HTML / CSS / JavaScript**: estructura y diseño del sitio.
+- **ChatGPT / IA generativa**: apoyo en generación de código y contenidos.
+- **Canva / Figma**: diseño visual, moodboard y primeros prototipos.
 
 ---
 
 ## 📦 Entregables
 
-- 📝 Archivo `README.md`
-- 🎨 Moodboard con la estética y tono del proyecto `Moodboard.jpg`  
-- 🧩 Archivos generados con asistencia de IA:
-  - `index.html`  
-  - `style.css`  
-  - `script.js`
+- `README.md`
+- `Moodboard.jpg`
+- `index.html`
+- `style.css`
+- `script.js`
+
+---
+
+💡 Proyecto desarrollado con creatividad y colaboración por el **Grupo B - Equipo 15** ✨
