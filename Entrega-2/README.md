@@ -1,57 +1,72 @@
-# 💻 Grupo B - Equipo 15  
-**Curso de Programación Asistida con IA - Chicas en Tecnología 🚀**
+# 📄 Entrega #2: Desarrollo Final
 
-Bienvenidas/os al repositorio del proyecto **"Aprendé a Aprender"**, desarrollado como parte del curso de programación frontend de **Chicas en Tecnología (CET)**.
+## 🧠 Tema del Proyecto
 
----
+**Educación metacognitiva y emocional para estudiantes de 12 a 18 años.**
 
-## 🧠 Proyecto: Aprendé a Aprender
+Muchos estudiantes no aprenden porque no saben *cómo* hacerlo. La escuela rara vez enseña a organizarse, regular emociones o formar hábitos.
 
-**¿Qué pasaría si en lugar de solo enseñar contenidos, enseñáramos a aprender?**
-
-**"Aprendé a Aprender"** es una plataforma web interactiva destinada a estudiantes de 12 a 18 años que busca desarrollar habilidades metacognitivas y emocionales esenciales para el estudio y el bienestar educativo.
-
-Muchos estudiantes no aprenden simplemente porque no saben *cómo* hacerlo. La escuela suele enfocarse en el contenido, pero no en el proceso. Este proyecto propone una solución educativa innovadora que ayuda a jóvenes a conocerse, regular sus emociones, organizarse mejor y construir hábitos efectivos para aprender.
+🔍 **Solución propuesta**: una plataforma web que enseña *cómo* aprender, manejar emociones al estudiar y desarrollar habilidades para el bienestar académico y personal.
 
 ---
 
-## 📄 Estructura del Repositorio
+## 🎯 Objetivo General
 
-### 📁 Entrega #1: Planificación de la solución y primeros resultados con IA
+Brindar herramientas prácticas para que estudiantes puedan:
 
-**📝 Archivo README:**  
-Contiene:
-
-- ✅ Definición de la problemática que elegimos abordar.  
-- ✅ Relación con los Objetivos de Desarrollo Sostenible (ODS), especialmente el ODS 4 (Meta 4.7).  
-- ✅ Explicación de la solución tecnológica propuesta: una plataforma web educativa con herramientas interactivas y personalizadas.
-
-**🎨 Moodboard:**  
-Representa la estética, el tono y la intención emocional del sitio.
-
-**🧩 Archivos generados con asistencia de IA:**
-
-- `index.html`: estructura del sitio web.  
-- `style.css`: estilos visuales.  
-- `script.js`: interacción y lógica de componentes.
+- Comprender su proceso de aprendizaje.
+- Organizarse y formar hábitos efectivos.
+- Regular sus emociones ante el estudio.
+- Desarrollar habilidades blandas para la vida.
 
 ---
 
-### 📁 Entrega #2 (Final)
+## 📌 Avances Entrega #2
 
-En esta etapa se incorporan modificaciones y mejoras respecto a la entrega anterior. Se incluyen:
+### ✅ Corrección y mejora de archivos iniciales
 
-- Nuevas funcionalidades y mejoras en la experiencia de usuario.
-- Ajustes visuales según el moodboard y feedback recibido.
-- Validación de que hay al menos un archivo por cada lenguaje aprendido: HTML, CSS y JavaScript.
+- `index.html`: estructura básica y nuevas secciones integradas.
+- `style.css`: uso de flexbox, mejora de paddings, optimización de contrastes.
+- `script.js`: ajustes en la lógica general.
+
+### ✅ Nuevas funcionalidades y secciones
+
+- `mi_estilo.html` / `mi_estilo.css` / `mi_estilo.js`
+- `tecnicas.html` / `tecnicas.css` / `tecnicas.js`
+
+### ✅ Navegación funcional
+
+- Menú con enlaces entre secciones para una navegación fluida.
+
+### ✅ Interactividad desarrollada
+
+- **Test de estilos de aprendizaje**  
+- **Técnicas de estudio con contenido dinámico**
+
+### ✅ Diseño responsivo
+
+- Adaptación para dispositivos móviles y tablets.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Herramientas Utilizadas
 
-- **HTML/CSS/JavaScript**: base del desarrollo frontend del sitio.  
-- **ChatGPT / IA generativa**: asistencia para la generación de contenido y código inicial.  
-- **Figma / Canva**: diseño de tarjetas visuales, estructuras de navegación y moodboard.  
+- **HTML / CSS / JavaScript**: desarrollo del sitio web.
+- **ChatGPT / IA generativa**: asistencia en lógica, contenidos y estilo.
+- **Canva / Figma**: diseño visual, moodboard y prototipado.
+
+---
+
+## 📦 Entregables
+
+- `README.md`
+- `Moodboard.jpg`
+- `index.html`
+- `seccion1.html`
+- `seccion2.html`
+- `seccion3.html`
+- `style.css`
+- `script.js`
 
 ---
 
